@@ -1,0 +1,22 @@
+.AppContainer {
+  text-align: center;
+}
+
+.AppHeader {
+  color: white;
+  height: 100px;
+  display: flex;
+  padding: 20px;
+  font-size: 20px;
+  font-weight: 400;
+  align-items: center;
+  background-color: #222;
+  justify-content: center;
+}
+
+.AppContent {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+}
